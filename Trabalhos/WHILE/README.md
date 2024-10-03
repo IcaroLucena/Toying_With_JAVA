@@ -1,4 +1,4 @@
-Instruções
+- Instruções
 Escreva um programa que pergunte ao usuário quantos alunos tem na sala dele. Em seguida, através de um laço while, pede ao usuário para que entre com as notas de todos os alunos da sala, um por vez. Por fim, o programa deverá apresentar a média aritmética, da turma.
 
 Crie um programa que solicite ao usuário um número inteiro “N” e imprima todos os números de 1 até “N”.
